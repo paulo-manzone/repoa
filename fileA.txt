@@ -14,4 +14,6 @@ teste1
 alo
 ohno
 teste3
->>>>>>> 1665323cc0fbf9aaace9551cd2173b372dcf39ca
+
+
+teste rebase 2
