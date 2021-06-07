@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 teste1
 alo
 ohno
 teste3
 teste rebase
+=======
+<<<<<<< HEAD
+gitlog ohno
+>>>>>>> f6f6a86 (teste merge)
 
+=======
+teste1
+alo
+ohno
+teste3
+>>>>>>> 1665323cc0fbf9aaace9551cd2173b372dcf39ca
